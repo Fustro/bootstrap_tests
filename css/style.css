@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+.container{
+  width: 100%;
+}
+
+.caja1{
+  background-color: #2557d9;
+  height: 250px;
+  width: auto;
+}
+
+.caja2{
+  background-color: #0bbcf1;
+  height: 250px;
+  width: auto;
+}
+
+.caja3{
+  background-color: #de503b;
+  height: 250px;
+  width: auto;
+}
+
+
+.caja4{
+  background-color: #f1b92a;
+  height: 250px;
+  width: auto;
+}
